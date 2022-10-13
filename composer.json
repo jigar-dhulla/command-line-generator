@@ -1,0 +1,22 @@
+{
+    "name": "jigarakatidus/command-line-generator",
+    "description": "A simple library to generate unix command line",
+    "type": "library",
+    "require": {
+    },
+    "require-dev": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jigarakatidus\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jigar Dhulla",
+            "email": "jigar.tidus@gmail.com"
+        }
+    ]
+}
